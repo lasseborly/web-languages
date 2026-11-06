@@ -94,7 +94,6 @@ Other:
 - https://jyskordbog.dk
 - https://www.kommunen.dk/
 - https://ordnet.dk
-- https://da.wikipedia.org/
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Denmark
